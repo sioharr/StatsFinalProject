@@ -1,2 +1,2 @@
-# StatsFinalProject
-Final Project for Statistics - Use crime data to determine policy
+# Final Project for Statistics
+Our group was provided a data set of crime data.  The dataset was limited and had been tampered with by the instructors, so there was no obvious approach.  We were asked to develop a policy position.  We analyzed the data in R and then developed a story line for "Earnie Anders" around income inequality.  We developed a proxy for income inequality and then measured crime statistics around that variable.  Applying the statistics we had learned in the early part of the semester was great fun and the feedback from our peers and professor indicated we did a solid job with story telling around this assignment.
